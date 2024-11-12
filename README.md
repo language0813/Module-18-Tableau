@@ -2,9 +2,9 @@
 
 ## Background
 
-Citibike website provides two types of dataset: one that covers all Citibike data and the other focuses on Jersey City data. Considering data file size restrictions on Tableau and Github, my analysis focuses on Jeresy City data from January 2019 to December 2020. And the two years data time frame was chosen because I am interested in analyzing the impacts to Citibike usage from COVID-19.
+The Citibike website provides two types of dataset: one that covers all Citibike data and the other focuses on Jersey City data. Due to file size constraints on Tableau and Github, my analysis focuses on Jeresy City data from January 2019 to December 2020. This two-year timeframe was selected to discover potential impacts of COVID-19 on Citibike usage.
 
-As the CDC reported the first COVID-19 confirmed case in the United States on January 20, 2020, analyzing data from 2019 to 2020 allows us to explore potential shift in Citibike usage and user behavior related to the pandemic.
+Since the CDC reported the first COVID-19 confirmed case in the United States on January 20, 2020, analyzing data from 2019 to 2020 allows us to explore potential shift in Citibike usage and user behavior related to the pandemic.
 
 ## Analysis Topics
 
