@@ -36,7 +36,7 @@ Since the CDC reported the first COVID-19 confirmed case in the United States on
 - Transformed the numeric values in the `gender` column into `unknown`, `male`, and `female` so I don't need to revise the labels in Tableau.
 ![Transform gender values](Image/transform_gender.png)
 
-- Finally, I saved the transformed dataframe as a CSV file in the `Resource_Tableau` folder for use in Tableau. **Please note that the final consolidated CSV file size is 135MB, which exceeds GitHub's indicidual file size limit. As a result, this file wasn't uploaded to the respository. However, the code used to generate it is displayed in the screenshot below.**
+- Finally, I saved the transformed dataframe as a CSV file in the `Resource_Tableau` folder for use in Tableau. **Please note that the final consolidated CSV file size is 135MB, which exceeds GitHub's individual file size limit. As a result, this file wasn't uploaded to the respository. However, the code used to generate it is displayed in the screenshot below.**
 ![Save final dataframe](Image/final_step.png)
 
 - During data transforming process, I identified potential data entry errors in the `birth year` column, with 218 entries showing ages over 100 years. To maintain accuracy and avoid ambiguity, I excluded rows with ages over 90 or unknown gender when analyzing user age and gender distributions.
@@ -44,7 +44,7 @@ Since the CDC reported the first COVID-19 confirmed case in the United States on
 
 ## Analysis
 
-Maps, visualizations, and analysis are all included in the [Tableau Story](https://public.tableau.com/app/profile/yen.lu3931/viz/CitibikeAnalysis_17314242469970/Story1) to meet this challenge's requirements. Followings are the screenshots of the tableau story I created for your reference:
+Maps, visualizations, and analysis are all included in the [Tableau Story](https://public.tableau.com/app/profile/yen.lu3931/viz/CitibikeAnalysis_17314242469970/Story1). Followings are the screenshots of the tableau story I created for your reference:
 
 ![Tableau story page 1](Image/tableau1.png)
 
